@@ -10,7 +10,7 @@ may be accessed either by a connected keyboard/monitor, or over SSH.
 `nems-backup <https://docs.nemslinux.com/commands/nems-backup>`__ - NEMS
 Migrator's backup component.
 
-`nems-benchmark <https://docs.nemslinux.com/commands/nems-benchmark>`__ -
+`nems-benchmark <https://docs2.nemslinux.com/en/latest/commands/nems-benchmark.html>`__ -
 Benchmark your NEMS Linux server.
 
 `nems-cert <https://docs.nemslinux.com/commands/nems-cert>`__ - Generate
