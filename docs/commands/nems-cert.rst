@@ -94,7 +94,7 @@ simply need to install a few components:
 
 .. code-block:: console
 
-    sudo apt update && **sudo** apt **install** openssl **dialog**
-
+    sudo apt update && sudo apt install openssl dialog
+    
 You'll also want to change where the certs are saved to within the
 source code since the NEMS locations won't be relevant.
