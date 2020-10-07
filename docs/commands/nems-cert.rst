@@ -16,7 +16,7 @@ So *nems-cert* has you covered.
 
 .. code-block:: console
 
-    **sudo** nems-cert
+    sudo nems-cert
 
 This will take you through the certificate creation process once again,
 generate your certificates and certificate authority, install them, and
@@ -77,7 +77,7 @@ following command:
 
 .. code-block:: console
 
-    **sudo** nems-info sslcert
+    sudo nems-info sslcert
 
 Use of nems-cert Outside of NEMS Linux
 --------------------------------------
@@ -94,7 +94,7 @@ simply need to install a few components:
 
 .. code-block:: console
 
-    **sudo** apt update && **sudo** apt **install** openssl **dialog**
+    sudo apt update && **sudo** apt **install** openssl **dialog**
 
 You'll also want to change where the certs are saved to within the
 source code since the NEMS locations won't be relevant.
