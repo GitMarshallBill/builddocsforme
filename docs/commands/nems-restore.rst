@@ -133,4 +133,3 @@ Final Step
 If you have any problems (or praise) please post in `the NEMS Linux
 community forum <http://forum.category5.tv/forum-8.html>`__.
 
-
