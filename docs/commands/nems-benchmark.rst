@@ -1,7 +1,7 @@
 NEMS Linux Command: nems-benchmark
 ==================================
 
-``nems-benchmark`` is a benchmarking tool to determine the performance of
+*nems-benchmark* is a benchmarking tool to determine the performance of
 your NEMS Linux server.
 
 You may run it manually if you like, but shouldn't have to since the
