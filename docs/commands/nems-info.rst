@@ -17,6 +17,10 @@ Available Command Options
     
     Output the IP address of your NEMS Linux
    server. Automatically detects which interface is in use.
+
+
+
+   
 - *nems-info* **nemsver** - Output the currently running full
    version of NEMS Linux, including rolling update subversion.
 -  *nems-info \ *\ **nemsbranch** - Output the currently running branch
