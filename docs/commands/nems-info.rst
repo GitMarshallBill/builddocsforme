@@ -15,6 +15,7 @@ Available Command Options
 
     nems-info ip 
     
+    
     Output the IP address of your NEMS Linux
    server. Automatically detects which interface is in use.
 
