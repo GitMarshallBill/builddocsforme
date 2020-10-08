@@ -11,7 +11,11 @@ folder on your NEMS Linux server.
 Available Command Options
 -------------------------
 
-- *nems-info* **ip** - Output the IP address of your NEMS Linux
+.. code-block:: console
+
+    nems-info ip 
+    
+    Output the IP address of your NEMS Linux
    server. Automatically detects which interface is in use.
 - *nems-info* **nemsver** - Output the currently running full
    version of NEMS Linux, including rolling update subversion.
