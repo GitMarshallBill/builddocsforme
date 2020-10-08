@@ -11,54 +11,54 @@ folder on your NEMS Linux server.
 Available Command Options
 -------------------------
 
--  *nems-info \ *\ **ip** - Output the IP address of your NEMS Linux
+-  *nems-info **ip** - Output the IP address of your NEMS Linux
    server. Automatically detects which interface is in use.
--  *nems-info \ *\ **nemsver** - Output the currently running full
+-  *nems-info **nemsver** - Output the currently running full
    version of NEMS Linux, including rolling update subversion.
--  *nems-info \ *\ **nemsbranch** - Output the currently running branch
+-  *nems-info **nemsbranch** - Output the currently running branch
    version of NEMS Linux, excluding rolling update subversion.
--  *nems-info \ *\ **nemsveravail** - Output the latest available
+-  *nems-info **nemsveravail** - Output the latest available
    version of NEMS Linux.
--  *nems-info \ *\ **users** - Output the number of users connected to
+-  *nems-info **users** - Output the number of users connected to
    your NEMS Linux server (ie., through SSH or direct console).
--  *nems-info \ *\ **diskusage** - Output how much disk usage you are
+-  *nems-info **diskusage** - Output how much disk usage you are
    currently using on your NEMS Linux server, in percentage.
--  *nems-info \ *\ **memusage** - Output a memory usage breakdown of
+-  *nems-info **memusage** - Output a memory usage breakdown of
    your NEMS Linux server.
--  *nems-info \ *\ **country** - Output the country code of your NEMS
+-  *nems-info **country** - Output the country code of your NEMS
    Linux server, based on the timezone settings you configured
    during `nems-init <https://docs.nemslinux.com/commands/nems-init>`__.
--  *nems-info \ *\ **hwver** - Output the revision of your NEMS Linux
+-  *nems-info **hwver** - Output the revision of your NEMS Linux
    server hardware.
--  *nems-info \ *\ **hwid** - Output your NEMS Linux server's unique
+-  *nems-info **hwid** - Output your NEMS Linux server's unique
    NEMS Hardware ID.
--  *nems-info \ *\ **platform** - Output which platform your NEMS Linux
+-  *nems-info **platform** - Output which platform your NEMS Linux
    server is running on.
--  *nems-info \ *\ **platform-name** - Output the name of the platform
+-  *nems-info **platform-name** - Output the name of the platform
    NEMS Linux is running on using local database.
--  *nems-info \ *\ **drives** - Output a JSON list of all your NEMS
+-  *nems-info **drives** - Output a JSON list of all your NEMS
    Linux server's available storage media.
--  *nems-info \ *\ **loadaverage** - Output your NEMS Linux server's
+-  *nems-info **loadaverage** - Output your NEMS Linux server's
    weekly load average.
--  *nems-info \ *\ **temperature** - Output the current average CPU
+-  *nems-info **temperature** - Output the current average CPU
    temperature.
--  *nems-info \ *\ **sslcert** - Display your NEMS SSL certificate
+-  *nems-info **sslcert** - Display your NEMS SSL certificate
    information.
--  *nems-info \ *\ **nic** - Display the network interface (eg., eth0,
+-  *nems-info **nic** - Display the network interface (eg., eth0,
    wlan0, enp2s0) currently being used.
--  *nems-info \ *\ **checkport ####** - See if a port is running on the
+-  *nems-info **checkport ####** - See if a port is running on the
    NEMS server. Used to determine if services are up or down. For
    example, to see if apache2 is resonding: *nems-info checkport 80*
 -  *nems-info \ *\ **cpupercent** - Output the current CPU usage as a
    number representing percent.
 -  *nems-info \ *\ **init** - Detect if this NEMS server has been
    initialized or not. Returns 0 (not initialized) or 1 (initialized).
--  *nems-info \ *\ **username** - Output the username for this NEMS
+-  *nems-info **username** - Output the username for this NEMS
    server as
    per `nems-init <https://docs.nemslinux.com/commands/nems-init>`__.
--  *nems-info \ *\ **online** - Detect if the NEMS Server is online /
+-  *nems-info **online** - Detect if the NEMS Server is online /
    can communicate with GitHub. Returns 0 for false, 1 for true.
--  *nems-info \ *\ **socket** - Provide the location of the livestatus
+-  *nems-info **socket** - Provide the location of the livestatus
    socket.
 -  *nems-info \ *\ **hosts** - Output a count of how many hosts you are
    currently monitoring (uses livestatus).
