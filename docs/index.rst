@@ -61,6 +61,14 @@ NEMS Linux documentation, work in progress.
     changelogs/1.0
 
 .. toctree::
+    :maxdepth: 1
+    :caption: Known Issues, Bugs and Planned Updates
+
+    known/knownissues
+    known/Bugs
+    known/plannedupdates
+
+.. toctree::
     :maxdepth: 2
     :caption: Hardware
 
