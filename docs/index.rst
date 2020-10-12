@@ -64,9 +64,8 @@ NEMS Linux documentation, work in progress.
     :maxdepth: 1
     :caption: To-Do List and Report Bugs
 
-    knownissues/knownissues
-    knownissues/Bugs
-    knownissues/plannedupdates
+    todolist/todolist
+    todolist/Bugs
 
 .. toctree::
     :maxdepth: 2
