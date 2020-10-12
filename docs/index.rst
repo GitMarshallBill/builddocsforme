@@ -64,9 +64,9 @@ NEMS Linux documentation, work in progress.
     :maxdepth: 1
     :caption: Known Issues, Bugs and Planned Updates
 
-    known/knownissues
-    known/Bugs
-    known/plannedupdates
+    knownissues/knownissues
+    knownissues/Bugs
+    knownissues/plannedupdates
 
 .. toctree::
     :maxdepth: 2
