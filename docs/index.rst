@@ -62,7 +62,8 @@ NEMS Linux documentation, work in progress.
 
 .. toctree::
     :maxdepth: 1
-    :caption: Known Issues, Bugs and Planned Updates
+    :caption: Known Issues, Bugs 
+    and Planned Updates
 
     knownissues/knownissues
     knownissues/Bugs
