@@ -64,7 +64,7 @@ Available Command Options
    currently monitoring (uses livestatus).
 - ``nems-info services`` - Output a count of how many services
    you are currently monitoring (uses livestatus).
--  ``nems-info benchmark**\ *\  [test-name]`` Outputs numeric
+-  ``nems-info benchmark  [test-name]`` Outputs numeric
    result of NEMS Benchmark. Will return 0 if test has not yet been run
    via cron task, or if being run on an unsupported version of NEMS
    (requires 1.4+). Generally not for end-users. Used by `NEMS Anonymous
