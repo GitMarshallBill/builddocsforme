@@ -46,7 +46,7 @@ Available Command Options
    information.
 -  ``nems-info nic`` - Display the network interface (eg., eth0,
    wlan0, enp2s0) currently being used.
--  ``nems-info checkport ####*``- See if a port is running on the
+-  ``nems-info checkport ####``- See if a port is running on the
    NEMS server. Used to determine if services are up or down. For
    example, to see if apache2 is resonding: *nems-info checkport 80*
 -  ``nems-info cpupercent`` - Output the current CPU usage as a
@@ -64,7 +64,7 @@ Available Command Options
    currently monitoring (uses livestatus).
 - ``nems-info services`` - Output a count of how many services
    you are currently monitoring (uses livestatus).
--  ``nems-info benchmark  [test-name]`` Outputs numeric
+-  ``nems-info benchmark [test-name]`` Outputs numeric
    result of NEMS Benchmark. Will return 0 if test has not yet been run
    via cron task, or if being run on an unsupported version of NEMS
    (requires 1.4+). Generally not for end-users. Used by `NEMS Anonymous
