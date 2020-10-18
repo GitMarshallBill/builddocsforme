@@ -74,10 +74,10 @@ NEMS Linux documentation, work in progress.
     todolist/reportissues
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Miscellaneous
+    :maxdepth: 2
+    :caption: Miscellaneous
 
-   misc/selfsignedcertificates
+    misc/selfsignedcertificates
      
 .. toctree::
     :maxdepth: 1
