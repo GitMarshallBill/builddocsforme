@@ -72,6 +72,12 @@ NEMS Linux documentation, work in progress.
 
     todolist/todolist
     todolist/reportissues
+
+..toctree::
+   :maxdepth: 2
+   :caption: Miscellaneous
+
+   misc/nemscloudservices
      
 .. toctree::
     :maxdepth: 1
