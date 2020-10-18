@@ -77,7 +77,7 @@ NEMS Linux documentation, work in progress.
    :maxdepth: 2
    :caption: Miscellaneous
 
-   misc/nemscloudservices
+   misc/selfsignedcertificates
      
 .. toctree::
     :maxdepth: 1
