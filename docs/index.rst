@@ -51,6 +51,12 @@ NEMS Linux documentation, work in progress.
     advanced/mrtg
     advanced/monitorMsWindowsHosts
 
+    .. toctree::
+    :maxdepth: 2
+    :caption: Hardware
+
+    accessories/index
+ 
 .. toctree::
     :maxdepth: 1
     :caption: Changelogs
@@ -66,13 +72,7 @@ NEMS Linux documentation, work in progress.
 
     todolist/todolist
     todolist/reportissues
-
-.. toctree::
-    :maxdepth: 2
-    :caption: Hardware
-
-    accessories/index
-        
+     
 .. toctree::
     :maxdepth: 1
     :caption: Credits
