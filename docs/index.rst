@@ -80,6 +80,14 @@ NEMS Linux documentation, work in progress.
     misc/selfsignedcertificates
     misc/backupnemsfile
     misc/nemszram
+    misc/nemslicensing
+    misc/nemsbranding
+    misc/fileandfolderlocations
+    misc/anonymousstatcollection
+    misc/linuxsourcecode
+    misc/md5checksums
+    misc/nemscheckin
+    misc/vendorbranding
      
 .. toctree::
     :maxdepth: 1
