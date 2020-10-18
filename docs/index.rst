@@ -86,7 +86,6 @@ NEMS Linux documentation, work in progress.
     misc/anonymousstats
     misc/linuxsourcecode
     misc/md5checksums
-    misc/nemscheckin
     misc/vendorbranding
      
 .. toctree::
