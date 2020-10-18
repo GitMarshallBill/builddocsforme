@@ -25,6 +25,12 @@ NEMS Linux documentation, work in progress.
     gettingstarted/faq
 
 .. toctree::
+    :maxdepth: 1
+    :caption: Notifications
+
+    notifications/notificationsbysms
+    
+.. toctree::
     :maxdepth: 2
     :caption: Commands
 
