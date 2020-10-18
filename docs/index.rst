@@ -82,7 +82,7 @@ NEMS Linux documentation, work in progress.
     misc/nemszram
     misc/nemslicensing
     misc/nemsbranding
-    misc/fileandfolderlocations
+    misc/filefolderlocation
     misc/anonymousstatcollection
     misc/linuxsourcecode
     misc/md5checksums
