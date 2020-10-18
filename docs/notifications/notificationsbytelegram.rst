@@ -73,6 +73,6 @@ appropriately. Save, and generate your Nagios Config.
 |image6|
 
 Thanks
-to `baggins <http://forum.category5.tv/thread-96-post-750.html>`__ for
+to `baggins <https://forum.nemslinux.com/viewtopic.php?f=44&t=96&hilit=baggins>`__ for
 contributing this feature and Vincenzo Di Iorio for assisting with this
 documentation.
