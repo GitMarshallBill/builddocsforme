@@ -18,7 +18,7 @@ Logo Options
 .. figure:: ../../img/nems-fullcolour_sm.png
   :width: 150
   :align: center
-  :alt:NEMS Full Color Small
+  :alt: NEMS Full Colour Small
 
 -  `nems-fullcolour.png <https://docs.nemslinux.com/_detail/nems-fullcolour.png?id=branding>`__
 -  `Nems-01.eps <https://docs.nemslinux.com/_detail/Nems-01.eps?id=branding>`__
@@ -33,7 +33,7 @@ Logo Options
 .. figure:: ../../img/nems-secondary-fullcolour_sm.png
   :width: 150
   :align: center
-  :alt: NEMS Secondary Full Color Small
+  :alt: NEMS Secondary Full Colour Small
 
 -  `nems-secondary-fullcolour.png <https://docs.nemslinux.com/_detail/nems-secondary-fullcolour.png?id=branding>`__
 -  `Nems-02.eps <https://docs.nemslinux.com/_detail/Nems-02.eps?id=branding>`__
