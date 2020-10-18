@@ -1,63 +1,108 @@
-NEMS Linux Vendor Branding
-==========================
+NEMS Branding
+=============
 
-|image1|\ Whether you're a vendor, distributor or IT professional, it's
-nice to include your own branding if you install a NEMS Server at a
-client site, or if you're building and selling NEMS Linux appliances.
+NEMS Linux
+----------
 
-Currently the NEMS Linux Vendor Branding feature supports:
+The NEMS Linux logo was created
+by `Outlndr <https://www.outlndr.com/>`__.
 
-1. Vendor Logo
-2. Vendor  (optional)
-3. Vendor License (optional)
+Colors
+~~~~~~
 
-When you add your vendor logo, it will be scaled to a maximum height of
-60 pixels and placed on the NEMS Dashboard above sponsor logos, and the
-sponsor logos will be shrunk to a smaller size. If you include a , the
-logo will be clickable and will open a new tab to your  when clicked.
+-  NEMS Green: #84c044
+-  NEMS Grey: #a7a9ac
 
-Add Your Vendor Branding
-------------------------
+Logo Options
+~~~~~~~~~~~~
 
-**Tip:** When creating your vendor image master, do not boot the image.
-Instead, add your vendor files using a card reader on a computer, and
-then create an img of the card containing your vendor files. If you boot
-the system from your card, the filesystem will be resized to fill the
-card, so your resulting img will be huge. You may then have trouble
-re-imaging it to new cards since the capacity from card to card may vary
-by a byte or two.
+|image1|
 
-1. Mount your NEMS Linux drive (Eg., SD card) on your computer.
-2. Place your logo in the *vendor* folder on the *boot* partition. It
-   must be named **logo.png**
-3. If you would like your logo to be clickable (eg., link to your
-   company web site), create a file in that same folder
-   called **url.txt** and paste your full  into the file.
-4. A Vendor License may be purchased, if desired. If a valid Vendor
-   License is included, all users who share this build will be able to
-   utilize your NEMS Cloud Services account. This means you will be able
-   to monitor every server that is distributed under your account. This
-   feature is intended for IT administrators who need to monitor
-   widespread networks.
+-  `nems-fullcolour.png <https://docs.nemslinux.com/_detail/nems-fullcolour.png?id=branding>`__
+-  `Nems-01.eps <https://docs.nemslinux.com/_detail/Nems-01.eps?id=branding>`__
 
-Logo Tips
----------
+|image2|
 
--  Your logo should have a transparent background.
--  Your logo should scale nicely and be recognizable when it is scaled
-   to 60 pixels high.
--  You should assume the logo will always be presented on a dark
-   background. If your logo is dark, consider adding a light border to
-   your logo.png file.
--  URLs need to be complete. For example, **nemslinux.com** is
-   incorrect, whereas **https://nemslinux.com/** is correct.
--  Be mindful that you are placing your logo file within
-   the *boot* partition, which is generally quite small. Ensure your
-   file is of reasonable size, especially considering it will be scaled
-   down to a height of 60 pixels. So a massive high-res logo.png is
-   really unnecessary. If you run out of space on *boot* you could
-   experience problems.
+-  `nems-greyscale.png <https://docs.nemslinux.com/_detail/nems-greyscale.png?id=branding>`__
+-  `Nems-03.eps <https://docs.nemslinux.com/_detail/Nems-03.eps?id=branding>`__
 
-.. |image1| image:: Pictures/10000201000001F400000119C1EF58B32916D133.png
-   :width: 5.2083in
-   :height: 2.9272in
+|image3|
+
+-  `nems-secondary-fullcolour.png <https://docs.nemslinux.com/_detail/nems-secondary-fullcolour.png?id=branding>`__
+-  `Nems-02.eps <https://docs.nemslinux.com/_detail/Nems-02.eps?id=branding>`__
+
+|image4|
+
+-  `nems-secondary-greyscale.png <https://docs.nemslinux.com/_detail/nems-secondary-greyscale.png?id=branding>`__
+-  `Nems-04.eps <https://docs.nemslinux.com/_detail/Nems-04.eps?id=branding>`__
+
+|image5|
+
+-  `nems-secondary-white.png <https://docs.nemslinux.com/_detail/nems-secondary-white.png?id=branding>`__
+-  `Nems-06.eps <https://docs.nemslinux.com/_detail/Nems-06.eps?id=branding>`__
+
+|image6|
+
+-  `nems-white.png <https://docs.nemslinux.com/_detail/nems-white.png?id=branding>`__
+-  `Nems-05.eps <https://docs.nemslinux.com/_detail/Nems-05.eps?id=branding>`__
+
+NEMS Configurator
+-----------------
+
+The NConf logo is an adaptation of the NEMS Linux logo. The adaptation
+was created by Robbie Ferguson.
+
+|image7|
+
+-  `nconf_logo.png <https://docs.nemslinux.com/_detail/nconf_logo.png?id=branding>`__
+-  `nconf_logo.xcf <https://docs.nemslinux.com/_detail/nconf_logo.xcf?id=branding>`__
+
+NEMS TV Dashboard
+-----------------
+
+The NEMS TV Dashboard logo was adapted from the original NEMS logo
+by `Outlndr <https://www.outlndr.com/>`__ and a CC0 stock icon. Because
+it is typically only seen as a 16×16 favicon, the green of the NEMS logo
+was darkened to make it stand out.
+
+|image8|
+
+-  `tv-icon.png <https://docs.nemslinux.com/_detail/tv-icon.png?id=branding>`__
+
+NEMS Cloud Services
+-------------------
+
+An adaptation of the NEMS Linux logo, with the subtext using the
+AnjaliOldLipi font in #699bdf (light blue, representing the sky).
+
+|image9|
+
+-  `ncs.png <https://docs.nemslinux.com/_detail/ncs.png?id=branding>`__
+
+.. |image1| image:: Pictures/10000201000000850000002FD5DA6257EFF889D4.png
+   :width: 0.4429in
+   :height: 0.1563in
+.. |image2| image:: Pictures/10000201000000850000002F8BB8462D1D4FE13B.png
+   :width: 0.4429in
+   :height: 0.1563in
+.. |image3| image:: Pictures/100002010000006E000000857D6E6FBD292D472E.png
+   :width: 0.3665in
+   :height: 0.4429in
+.. |image4| image:: Pictures/100002010000006E00000085377B5794C43A7F68.png
+   :width: 0.3665in
+   :height: 0.4429in
+.. |image5| image:: Pictures/100002010000006E00000085C88EE2BE9D803546.png
+   :width: 0.3665in
+   :height: 0.4429in
+.. |image6| image:: Pictures/10000201000000850000002FE7F0FF4FBE2F6D29.png
+   :width: 0.4429in
+   :height: 0.1563in
+.. |image7| image:: Pictures/10000201000000850000002E61DAE77DE2113B37.png
+   :width: 0.4429in
+   :height: 0.1535in
+.. |image8| image:: Pictures/100002010000004B0000004BE8A2A213BEE77D8B.png
+   :width: 0.25in
+   :height: 0.25in
+.. |image9| image:: Pictures/10000201000000850000002BCCCDC6788E9AB189.png
+   :width: 0.4429in
+   :height: 0.1429in
