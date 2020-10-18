@@ -51,7 +51,7 @@ NEMS Linux documentation, work in progress.
     advanced/mrtg
     advanced/monitorMsWindowsHosts
 
-    .. toctree::
+.. toctree::
     :maxdepth: 2
     :caption: Hardware
 
