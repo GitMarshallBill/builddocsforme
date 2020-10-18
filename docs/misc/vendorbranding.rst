@@ -1,7 +1,12 @@
 NEMS Linux Vendor Branding
 ==========================
 
-\ Whether you're a vendor, distributor or IT professional, it's
+.. figure:: ../../img/ssvendorbranding.png
+  :width: 600
+  :align: center
+  :alt: Vendor Branding Image
+
+Whether you're a vendor, distributor or IT professional, it's
 nice to include your own branding if you install a NEMS Server at a
 client site, or if you're building and selling NEMS Linux appliances.
 
