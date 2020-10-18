@@ -1,7 +1,7 @@
 NEMS Linux Vendor Branding
 ==========================
 
-|image1|\ Whether you're a vendor, distributor or IT professional, it's
+\ Whether you're a vendor, distributor or IT professional, it's
 nice to include your own branding if you install a NEMS Server at a
 client site, or if you're building and selling NEMS Linux appliances.
 
@@ -57,7 +57,3 @@ Logo Tips
    down to a height of 60 pixels. So a massive high-res logo.png is
    really unnecessary. If you run out of space on *boot* you could
    experience problems.
-
-.. |image1| image:: Pictures/10000201000001F400000119C1EF58B32916D133.png
-   :width: 5.2083in
-   :height: 2.9272in
