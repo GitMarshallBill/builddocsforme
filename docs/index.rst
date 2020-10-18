@@ -29,6 +29,9 @@ NEMS Linux documentation, work in progress.
     :caption: Notifications
 
     notifications/notificationsbysms
+    notifications/notificationsbywebhook
+    notifications/notificationsbytelegram
+    notifications/notificationsbypushover
     
 .. toctree::
     :maxdepth: 2
