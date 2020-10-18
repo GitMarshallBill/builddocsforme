@@ -78,6 +78,8 @@ NEMS Linux documentation, work in progress.
     :caption: Miscellaneous
 
     misc/selfsignedcertificates
+    misc/backupnemsfile
+    misc/nemszram
      
 .. toctree::
     :maxdepth: 1
