@@ -1,7 +1,10 @@
 How NEMS Linux Uses ZRAM To Maximize Memory
 ===========================================
 
-|image1|
+.. figure:: ../../img/nemsswap.png
+  :width: 600
+  :align: center
+  :alt: NEMS Swap Screenshot
 
 On June 23, 2017 I disabled swap on NEMS 1.2 to decrease the read/writes
 to NEMS server SD cards on the Raspberry Pi.
@@ -32,7 +35,3 @@ full or close to full, it will begin swapping … or rather … compressing!
 So, when you see the 1GB swap on your NEMS 1.3 server, don't fear! It is
 not using your SD card, and it's actually a brilliant way to increase
 the RAM capacity of your Raspberry Pi.
-
-.. |image1| image:: Pictures/1000020100000320000000641A50A60E24A31EB6.png
-   :width: 11.1098in
-   :height: 1.389in
