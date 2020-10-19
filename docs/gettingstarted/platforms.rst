@@ -77,7 +77,7 @@ NEMS Linux Appliance
 |image8|
 
 NEMS Linux Docker Container
-===========================
+----------------------------
 
 The NEMS Linux Docker Container is coming soon. It is currently
 in *heavy testing*. If you decide to try it, please do not do so in a
