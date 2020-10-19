@@ -1,8 +1,10 @@
+####################
 Available Platforms
-====================
+####################
 
+*************************************
 NEMS Linux on Single Board Computers
--------------------------------------
+*************************************
 
 When choosing your hardware, general SBC comparisons are not necessarily
 relevant since you will be deploying a NEMS Linux server specifically.
@@ -76,8 +78,9 @@ NEMS Linux Appliance
 
 |image8|
 
+*****************************
 NEMS Linux Virtual Appliance
------------------------------
+*****************************
 
 The NEMS Linux Virtual Appliance is only available
 to `Patrons <https://patreon.com/nems>`__.
@@ -140,16 +143,9 @@ Deployment Notes
    remove all RAM from the appliance if set to dynamic, which will
    result in NEMS Linux not functioning correctly. RAM should be static.
 
-NEMS Linux Docker Container
-----------------------------
-
-The NEMS Linux Docker Container is coming soon. It is currently
-in *heavy testing*. If you decide to try it, please do not do so in a
-production environment, and be sure to report any issues on our Discord
-server.
-
+**************************************
 NEMS Linux Amazon Machine Image (AMI)
--------------------------------------
+**************************************
 
 The NEMS Linux Amazon Machine Image is available in the Amazon EC2
 Community AMIs marketplace. Simply search for *NEMS Linux* when
@@ -229,6 +225,17 @@ Known Issues
    initialized, your public key will need to be manually imported. This
    will be improved in future, but wasn't a high priority as it should
    not affect many people (if anyone).
+
+
+****************************
+NEMS Linux Docker Container
+****************************
+
+The NEMS Linux Docker Container is coming soon. It is currently
+in *heavy testing*. If you decide to try it, please do not do so in a
+production environment, and be sure to report any issues on our Discord
+server.
+
 
 Install NEMS Linux for Docker
 -----------------------------
