@@ -18,8 +18,8 @@ Title
 Subtitle
 ********
 
-Subsubtitle
-===========
+Sections
+========
 
 Subsection
 ----------
