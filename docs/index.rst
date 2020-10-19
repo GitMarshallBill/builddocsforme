@@ -12,6 +12,7 @@ NEMS Linux documentation, work in progress.
 
     gettingstarted/introduction
     gettingstarted/platforms
+    gettingstarted/dockercontainer
     gettingstarted/install
     gettingstarted/initialization
     gettingstarted/connect
