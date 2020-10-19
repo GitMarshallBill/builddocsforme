@@ -104,6 +104,10 @@ NEMS Linux documentation, work in progress.
     :caption: Credits
 
     credits
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Headings
     
 Important Links
 ---------------
