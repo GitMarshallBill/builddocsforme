@@ -109,7 +109,7 @@ NEMS Linux documentation, work in progress.
     :maxdepth: 1
     :caption: Headings
 
-    headings/headings
+    headings
     
 Important Links
 ---------------
