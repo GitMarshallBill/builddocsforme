@@ -1,5 +1,8 @@
+Available Platforms
+====================
+
 NEMS Linux on Single Board Computers
-====================================
+-------------------------------------
 
 When choosing your hardware, general SBC comparisons are not necessarily
 relevant since you will be deploying a NEMS Linux server specifically.
