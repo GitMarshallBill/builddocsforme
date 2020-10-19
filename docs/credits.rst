@@ -9,34 +9,3 @@ The following people have contributed to the NEMS Linux documentation:
 
 
 Sending a Pull Request? Please make sure to also add your name to this list.
-
-#####
-Title
-#####
-
-********
-Subtitle
-********
-
-Add some text here
-
-Section
-========
-
-Subsection
-----------
-
-Subsubsection
-^^^^^^^^^^^^^
-
-Paragraphs
-""""""""""
-
-.. Tip:: Text for the tip is here
-
-.. Warning:: Text for the tip is here
-
-.. admonition:: Exercise
-  :class: note
-  
-  Text for the exercise is here
