@@ -20,7 +20,7 @@ Subtitle
 
 Add some text here
 
-Sections
+Section
 ========
 
 Subsection
