@@ -46,6 +46,7 @@ NEMS Linux documentation, work in progress.
     :maxdepth: 1
     :caption: Applications
 
+    apps/nemssst
     apps/cockpit
     apps/nems-dashboard
 
