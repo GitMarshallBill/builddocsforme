@@ -108,6 +108,8 @@ NEMS Linux documentation, work in progress.
 .. toctree::
     :maxdepth: 1
     :caption: Headings
+
+    headings/headings
     
 Important Links
 ---------------
