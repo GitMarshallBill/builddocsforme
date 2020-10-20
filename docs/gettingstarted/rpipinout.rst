@@ -1,4 +1,4 @@
-t docNEMS Linux: Raspberry Pi GPIO Pinout
+NEMS Linux: Raspberry Pi GPIO Pinout
 ====================================
 
 The following pinout diagram is applicable to Raspberry Pi-based NEMS
