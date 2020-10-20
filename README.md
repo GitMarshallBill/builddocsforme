@@ -31,8 +31,10 @@ When embedding an image, please place the image in /img and use the following fo
 ```
 When adding an image inline with the text place the image in /img and use the following format
 
+```
 .. |image| image:: ../../img/image.png
    :height: 2em
+```
 
 Image files need to be JPG or PNG. Sadly, ReadTheDocs doesn't appear to support WebP (they don't show up).
 
