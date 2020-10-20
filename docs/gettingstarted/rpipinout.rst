@@ -4,13 +4,7 @@ NEMS Linux: Raspberry Pi GPIO Pinout
  The pinout diagram is applicable to Raspberry Pi-based NEMS Linux servers, as well as `NEMS Tools GPIO Extender
  receivers <https://docs.nemslinux.com/features/nems-tools/warninglight>`__.
  
-|                                                                                       **Graphical Layout**                    
-
-.. figure:: ../../img/raspberry_pi_3_b_plus.png
-  :width: 600
-  :align: right
-  :alt: RPi Pinout
-
+|                                                                                                        
 
 ======= ======================================= ======= =============================== 
 **Pin** **Resrved For**                         **Pin** **Reserved For**                      
@@ -36,3 +30,12 @@ NEMS Linux: Raspberry Pi GPIO Pinout
    37    --                                        38    --
    39    --                                        40    --
 ======= ======================================= ======= ===============================
+
+ **Graphical Layout** 
+
+
+.. figure:: ../../img/raspberry_pi_3_b_plus.png
+  :width: 600
+  :align: right
+  :alt: RPi Pinout 
+
