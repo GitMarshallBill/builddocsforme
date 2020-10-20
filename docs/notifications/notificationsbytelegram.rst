@@ -79,7 +79,7 @@ the phone number you used to activate your Telegram account.
 
 12) Click on the group chat you added your bot to and look at the
 address bar. It will have a  such as
-https://web.telegram.org/#/im?p=\ **gXXXXXXXXX** - hold on to that info
+\https://web.telegram.org/#/im?p=\ **gXXXXXXXXX** - hold on to that info
 (Chat ID: **gXXXXXXXXX**)
 
 13) On your NEMS Server, open `NEMS
