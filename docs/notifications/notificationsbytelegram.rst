@@ -44,8 +44,14 @@ step above) and the  token.
   :align: center
   :alt: Botfather 2
 
-8) Click *back*  followed by the hamburger menu  then choose *New
+8) Click *back* |back| followed by the hamburger menu |hamburger| then choose *New
 Group*.
+
+.. |back| image:: ../../img/back.png
+   :height: 2em
+
+.. |hamburger| image:: ../../img/hamburger.png
+   :height: 2em   
 
 9) Search for the bot you just created just as if it was a person, and
 click it to add the bot to your new group.
