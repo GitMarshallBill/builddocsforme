@@ -18,7 +18,10 @@ Telegram account (it's free).
 
 3) Create a new message and search for *botfather*.
 
-|image1|
+.. figure:: ../../img/screenshot_2019-08-19-19-28-48-089_org.telegram.messenger.png
+  :width: 400
+  :align: center
+  :alt: Botfather
 
 4) Click on the BotFather bot result, and then click *Start* at the
 bottom of your app screen.
@@ -36,7 +39,10 @@ username.
 In particular, you'll need to remember your bot name (created in the
 step above) and the  token.
 
-|image2|
+.. figure:: ../../img/screenshot_2019-08-19-19-32-50-622_org.telegram.messenger.png
+  :width: 400
+  :align: center
+  :alt: Botfather 2
 
 8) Click *back*  followed by the hamburger menu  then choose *New
 Group*.
@@ -44,14 +50,20 @@ Group*.
 9) Search for the bot you just created just as if it was a person, and
 click it to add the bot to your new group.
 
-|image3|
+.. figure:: ../../img/screenshot_2019-08-19-19-41-44-985_org.telegram.messenger.png
+  :width: 400
+  :align: center
+  :alt: New Group 200000
 
 Click your bot's name from the search results, followed by the right
 arrow |image4| to proceed to the next screen.
 
 10) Enter a name for your group and click the checkmark to save.
 
-|image5|
+.. figure:: ../../img/screenshot_2019-08-19-19-43-25-138_org.telegram.messenger.png
+  : width: 400
+  :align: center
+  :alt: New Group
 
 11) On a computer, open the  https://web.telegram.org/ and sign in with
 the phone number you used to activate your Telegram account.
@@ -70,7 +82,10 @@ the *Notifications* tab.
 Modify). Add notify_host_by_telegram and notify_service_by_telegram
 appropriately. Save, and generate your Nagios Config.
 
-|image6|
+.. figure:: ../../telegram.png
+  :width: 400
+  :align: center
+  :alt: Telegram
 
 Thanks
 to `baggins <https://forum.nemslinux.com/viewtopic.php?f=44&t=96&hilit=baggins>`__ for
