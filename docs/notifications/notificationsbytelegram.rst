@@ -61,7 +61,7 @@ arrow |image4| to proceed to the next screen.
 10) Enter a name for your group and click the checkmark to save.
 
 .. figure:: ../../img/screenshot_2019-08-19-19-43-25-138_org.telegram.messenger.png
-  : width: 400
+  :width: 400
   :align: center
   :alt: New Group
 
@@ -82,7 +82,7 @@ the *Notifications* tab.
 Modify). Add notify_host_by_telegram and notify_service_by_telegram
 appropriately. Save, and generate your Nagios Config.
 
-.. figure:: ../../telegram.png
+.. figure:: ../../img/telegram.png
   :width: 400
   :align: center
   :alt: Telegram
