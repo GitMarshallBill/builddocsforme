@@ -60,10 +60,10 @@ arrow |image4| to proceed to the next screen.
 
 10) Enter a name for your group and click the checkmark to save.
 
-.. figure:: ../../img/screenshot_2019-08-19-19-41-44-985_org.telegram.messenger.png
+.. figure:: ../../img/screenshot_2019-08-19-19-43-25-138_org.telegram.messenger.png
   :width: 400
   :align: center
-  :alt: New Group 200000
+  :alt: New Group
 
 11) On a computer, open the  https://web.telegram.org/ and sign in with
 the phone number you used to activate your Telegram account.
