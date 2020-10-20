@@ -59,7 +59,7 @@ Click your bot's name from the search results, followed by the right
 arrow |rightarrow| to proceed to the next screen.
 
 .. |rightarrow| image:: ../../img/rightarrow.png
-   :height: 1em
+   :height: 2em
 
 10) Enter a name for your group and click the checkmark to save.
 
