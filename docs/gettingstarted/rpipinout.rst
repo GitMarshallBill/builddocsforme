@@ -34,7 +34,7 @@ NEMS Linux: Raspberry Pi GPIO Pinout
 
 
 .. figure:: ../../img/raspberry-pi-gpio-layout-model-b-plus.png
-  :width: 600
-  :align: right
+  :width: 400
+  :align: center
   :alt: RPi Pinout 
 
