@@ -69,7 +69,7 @@ Restore a Local Backup
    example, if you mounted the USB flash drive on */mnt/flash* you may
    determine the location to be */mnt/flash/backup.nems*, or if you
    copied it to the home folder, your file will be located
-   at */home/username/backup.nems*
+   at */home/<username>/backup.nems*
 
 4. Armed with that information, run the following command (use the *full
    path* to your backup.nems file):
