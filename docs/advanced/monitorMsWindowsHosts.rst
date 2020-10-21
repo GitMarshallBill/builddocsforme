@@ -331,7 +331,7 @@ issues that a simple ping can't determine.
 
    -  Add your Windows host to NEMS.
 
->> Tip :: **Important Firewall Note** 
+.. Tip :: **Important Firewall Note** 
           If you have a software firewall running on your Windows machine, setup
           an exception for your NEMS server IP to gain access through ports 5666
           and 12489.
