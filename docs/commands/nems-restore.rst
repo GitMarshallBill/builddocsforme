@@ -57,7 +57,7 @@ Restore a Local Backup
    -  Copy your *backup.nems* file to your NEMS Server over Samba
       at *\\\nems.local\home* which will place it in the home folder of
       your NEMS user, which will be accessible on NEMS Linux
-      at */home/username/backup.nems*
+      at */home/<username>/backup.nems*
 
    -  Copy your *backup.nems* file to your NEMS Server via SCP:
 
@@ -139,5 +139,5 @@ Final Step
    shut down and replace the SD card with your original deployment.
 
 If you have any problems (or praise) please post in `the NEMS Linux
-community forum <http://forum.category5.tv/forum-8.html>`__.
+community forum <https://forum.nemslinux.com/>`__.
 
