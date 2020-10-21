@@ -52,8 +52,7 @@ Here are some things to look for:
    those cases, you can simply enable/allow ping replies. It may be
    called “ping”, “incoming ping”, “ICMP Echo Reply”, or similar.
 
-.. Warning:: **DO NOT SIMPLY DISABLE YOUR FIREWALL.** Correctly establish a firewall
-rule within your firewall application.
+.. Warning:: **DO NOT SIMPLY DISABLE YOUR FIREWALL.** Correctly establish a firewall rule within your firewall application.
 
 Monitor Windows Machines with Windows Management Instrumentation (WMI)
 ======================================================================
