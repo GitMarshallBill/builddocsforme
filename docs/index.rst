@@ -27,6 +27,7 @@ NEMS Linux documentation, work in progress.
     gettingstarted/faq
     gettingstarted/rpipinout
 
+
 .. toctree::
     :maxdepth: 1
     :caption: Notifications
@@ -36,7 +37,7 @@ NEMS Linux documentation, work in progress.
     notifications/notificationsbytelegram
     notifications/notificationsbypushover
     notifications/pushovervstelegram
-    
+
 .. toctree::
     :maxdepth: 2
     :caption: Commands
@@ -47,9 +48,19 @@ NEMS Linux documentation, work in progress.
     :maxdepth: 1
     :caption: Applications
 
+    apps/serveroverview
+    apps/nconf
     apps/nemssst
-    apps/cockpit
+    apps/adagios
+    apps/mobileui
     apps/nems-dashboard
+    apps/tactivaloverview
+    apps/nemscloudservices
+    apps/monitorix
+    apps/cockpit
+    apps/monitservicemonitor
+    apps/migrator
+    
 
 .. toctree::
     :maxdepth: 2
@@ -71,7 +82,7 @@ NEMS Linux documentation, work in progress.
     :caption: Hardware
 
     accessories/index
- 
+  
 .. toctree::
     :maxdepth: 1
     :caption: Changelogs
@@ -87,7 +98,7 @@ NEMS Linux documentation, work in progress.
 
     todolist/todolist
     todolist/reportissues
-
+  
 .. toctree::
     :maxdepth: 1
     :caption: Miscellaneous
@@ -108,12 +119,6 @@ NEMS Linux documentation, work in progress.
     :caption: Credits
 
     credits
-
-.. toctree::
-    :maxdepth: 1
-    :caption: Headings
-
-    headings
     
 Important Links
 ---------------
