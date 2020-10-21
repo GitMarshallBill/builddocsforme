@@ -61,7 +61,9 @@ Restore a Local Backup
 
    -  Copy your *backup.nems* file to your NEMS Server via SCP:
 
-      **scp** <path to backup.nems> <username>@<nemsIP>:/home/<username>
+.. code-block:: console
+
+   **scp** <path to backup.nems> <username>@<nemsIP>:/home/<username>
 
 3. Determine the location of *backup.nems* on your NEMS Server. For
    example, if you mounted the USB flash drive on */mnt/flash* you may
@@ -72,9 +74,13 @@ Restore a Local Backup
 4. Armed with that information, run the following command (use the *full
    path* to your backup.nems file):
 
+.. code-block:: console
+
    **sudo** nems-restore /mnt/flash/backup.nems
 
    or
+
+.. code-block:: console
 
    **sudo** nems-restore /home/<username>/backup.nems
 
@@ -86,13 +92,12 @@ account.
 
 1. Run the command and choose the date you'd like to restore to:
 
+.. code-block:: console
+
    **sudo** nems-restore osb
 
 .. raw:: html
-
-    <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="100%" height="350" src=https://youtu.be/oREK_PUhkAE frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    </div>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/oREK_PUhkAE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Restore Off-Site Backup from Other Device
 -----------------------------------------
@@ -111,6 +116,8 @@ restore to a new device).
    Password so NEMS can read the OSB data from your old device.
 
 3. Run the command and choose the date you'd like to restore to:
+
+.. code-block:: console
 
    **sudo** nems-restore osb OLD_HWID
 
