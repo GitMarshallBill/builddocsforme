@@ -12,9 +12,7 @@ In order for NEMS Linux to be able to resolve a  hostname rather than IP addre
 
 - **Microsoft Windows Target** - If you already have iTunes installed, you do not need to do anything else (since it's included). Otherwise, you can install `Apple's Bonjour service <https://support.apple.com/kb/DL999?locale=en_US>`__ or you can enable Microsoft's own Link-Local Multicast Name Resolution (LLMNR) service.
 
-- **Linux Target** - Install *avahi-daemon*. It will automatically
-
-enable itself during installation. It's in your favorite package manager already.
+- **Linux Target** - Install *avahi-daemon*. It will automatically enable itself during installation. It's in your favorite package manager already.
 
 - **macOS Target** - No need to install anything; it's already included.
 
