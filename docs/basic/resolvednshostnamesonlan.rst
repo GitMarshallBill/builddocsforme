@@ -20,4 +20,4 @@ enable itself during installation. It's in your favorite package manager already
 
 .. note::
 
-   **Important Note About Firewall** - If the target computer has a firewall enabled, you'll also need to allow UDP traffic through ports 5353 and 53791.
+   If the target computer has a firewall enabled, you'll also need to allow UDP traffic through ports 5353 and 53791.
