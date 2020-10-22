@@ -33,6 +33,15 @@ NEMS Linux documentation, work in progress.
     :caption: Basic Setup
 
     basic/checkcommands
+    basic/backupnems
+    basic/cloudservices
+    basic/cloudservicesapi
+    basic/commandlinetest
+    basic/nemsnavigationmenu
+    basic/nems-restore
+    basic/whychoosenems
+    basic/setuptargetemailaddress
+    resolvednshostnamesonlan
 
 .. toctree::
     :maxdepth: 1
