@@ -1,5 +1,4 @@
 Resolving DNS Hostnames on LAN
-
 ==============================
 
 NEMS Linux uses two main Linux components to resolve \\*.local
