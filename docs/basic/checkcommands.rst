@@ -30,9 +30,6 @@ Check Commands
    Check your NEMS SBC temperature with perfdata and warn/crit
    thresholds.
 
--  `check_http <https://builddocsforme.readthedocs.io/en/latest/basic/checkhttp>`__ -
-   Check http/s response for a given host with warn/crit thresholds.
-
 -  check_wmi_plus
    (See `this <https://github.com/speartail/checkwmiplus/blob/master/check_wmi_plus.README.txt>`__ and `that <https://github.com/shinken-monitoring/pack-windows/blob/master/libexec/check_wmi_plus.d/check_wmi_plus.ini>`__)
 
