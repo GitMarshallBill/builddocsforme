@@ -26,6 +26,7 @@ NEMS Linux documentation, work in progress.
     gettingstarted/exercises
     gettingstarted/faq
     gettingstarted/rpipinout
+    gettingstarted/testemail
 
 .. toctree::
     :maxdepth: 2
