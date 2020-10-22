@@ -35,11 +35,11 @@ check_wmi_plus
 
 `check_win_users <https://builddocsforme.readthedocs.io/en/latest/basic/checkwinusers.html>`__ - Check the count of users on a Windows server based on a query.
 
-`check_temper <https://docs.nemslinux.com/hardware/temper.html>`__ - Use a
+`check_temper <https://builddocsforme.readthedocs.io/en/latest/accessories/temper.html>`__ - Use a
 TEMPer USB temperature sensor to detect and report the room
 temperature.
 
-`check_dhtxx <https://docs.nemslinux.com/hardware/dht-sensors.html>`__ -
+`check_dhtxx <https://docs2.nemslinux.com/en/latest/accessories/dhtsensors.html>`__ -
 Use a DHTxx (DHT11 / DHT22 / AM2302) Arduino sensor to report on the
 room temperature and humidity.
 
@@ -53,3 +53,6 @@ a remote system via NRPE.
 
 `check_internet_speed <https://builddocsforme.readthedocs.io/en/latest/basic/checkinternetspeed.html>`__ -
 Check the speed of your internet connection.
+
+`check_esxi_hardware <https://builddocsforme.readthedocs.io/en/latest/basic/checkesxi.html>`__ -
+Monitor the hardware of ESX and ESXi servers.
