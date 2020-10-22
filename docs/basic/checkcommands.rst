@@ -23,7 +23,7 @@ monitor any Minecraft server.
 Ping by hostname or IP address with warn/crit thresholds for response
 time and packet loss.
 
-`check_tcp <https://docs.nemslinux.com/config/nems_nconf/check_commands/checktcp.html>`__ -
+`check_tcp <https://builddocsforme.readthedocs.io/en/latest/basic/checktcp.html>`__ -
 Check response of a specific TCP connection.
 
 `check_sbc_temperature <https://builddocsforme.readthedocs.io/en/latest/basic/checksbctemp.html>`__ -
