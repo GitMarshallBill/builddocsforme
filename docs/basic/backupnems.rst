@@ -41,11 +41,13 @@ to your backup task:
 Download Via wget Using Secure SSL (Recommended)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-..note:: Using SSL not only protects the content of your backup, but also protects your username and password from prying eyes
+..note:: 
+
+  Using SSL not only protects the content of your backup, but also protects your username and password from prying eyes
 
 ..code-block:: console
 
-  **wget** -O "/backup/backup.nems" https://NEMSIP/backup/ --user=YOURUSER --password=YOURPASSWORD --no-check-certificate
+   wget -O "/backup/backup.nems" https://NEMSIP/backup/ --user=YOURUSER --password=YOURPASSWORD --no-check-certificate
 
 I included --no-check-certificate since NEMS is using a self-signed
 certificate. This will allow the communication to be encrypted, but not
@@ -63,7 +65,7 @@ Download Via wget Without Encryption
 
 ..code-block:: console
 
-  **wget** -O "/backup/backup.nems" http://nems.local/backup/ --user=YOURUSER --password=YOURPASSWORD
+   wget -O "/backup/backup.nems" http://nems.local/backup/ --user=YOURUSER --password=YOURPASSWORD
 
 In both of the above examples, replace */backup/backup.nems* with where
 you want nems-migrator to output the download,
