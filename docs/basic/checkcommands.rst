@@ -3,40 +3,40 @@ Check Commands
 ####################
 
 
--  `check_apc <https://builddocsforme.readthedocs.io/en/latest/basic/checkcommands/checkapc>`__ -
+-  `check_apc <https://builddocsforme.readthedocs.io/en/latest/basic/checkapc>`__ -
    Check APC UPS.
 
--  `check_http <https://builddocsforme.readthedocs.io/en/latest/basic/checkcommands/checkhttp>`__ -
+-  `check_http <https://builddocsforme.readthedocs.io/en/latest/basic/checkhttp>`__ -
    Check the status of an HTTP/HTTPS server on a remote host.
 
--  `check_mikrotik_switch <https://builddocsforme.readthedocs.io/en/latest/basic/checkcommands/checkmikrotik>`__ -
+-  `check_mikrotik_switch <https://builddocsforme.readthedocs.io/en/latest/basic/checkmikrotik>`__ -
    monitor stats for some MikroTik routers, including thermal sensors,
    packet loss, uptime, and so-on.
 
--  `check_minecraft <https://builddocsforme.readthedocs.io/en/latest/basic/checkcommands/checkminecraft>`__ -
+-  `check_minecraft <https://builddocsforme.readthedocs.io/en/latest/basic/checkminecraft>`__ -
    monitor Minecraft server uptime, see how many players are connected
    and analyse the response time. enable-query and enable-rcon do not
    need to be enabled on the Minecraft server, so you should be able to
    monitor any Minecraft server.
 
--  `check_ping <https://builddocsforme.readthedocs.io/en/latest/basic/checkcommands/checkping>`__ -
+-  `check_ping <https://builddocsforme.readthedocs.io/en/latest/basic/checkping>`__ -
    Ping by hostname or IP address with warn/crit thresholds for response
    time and packet loss.
 
 -  `check_tcp <https://docs.nemslinux.com/config/nems_nconf/check_commands/checktcp>`__ -
    Check response of a specific TCP connection.
 
--  `check_sbc_temperature <https://builddocsforme.readthedocs.io/en/latest/basic/checkcommands/checksbctemp>`__ -
+-  `check_sbc_temperature <https://builddocsforme.readthedocs.io/en/latest/basic/checksbctemp>`__ -
    Check your NEMS SBC temperature with perfdata and warn/crit
    thresholds.
 
--  `check_http <https://builddocsforme.readthedocs.io/en/latest/basic/checkcommands/checkhttp>`__ -
+-  `check_http <https://builddocsforme.readthedocs.io/en/latest/basic/checkhttp>`__ -
    Check http/s response for a given host with warn/crit thresholds.
 
 -  check_wmi_plus
    (See `this <https://github.com/speartail/checkwmiplus/blob/master/check_wmi_plus.README.txt>`__ and `that <https://github.com/shinken-monitoring/pack-windows/blob/master/libexec/check_wmi_plus.d/check_wmi_plus.ini>`__)
 
--  `check_win_users <https://builddocsforme.readthedocs.io/en/latest/basic/checkcommands/checkwinusers>`__ - Check the count of users on a Windows server based on a query.
+-  `check_win_users <https://builddocsforme.readthedocs.io/en/latest/basic/checkwinusers>`__ - Check the count of users on a Windows server based on a query.
 
 -  `check_temper <https://docs.nemslinux.com/hardware/temper>`__ - Use a
    TEMPer USB temperature sensor to detect and report the room
@@ -46,13 +46,13 @@ Check Commands
    Use a DHTxx (DHT11 / DHT22 / AM2302) Arduino sensor to report on the
    room temperature and humidity.
 
--  `check_nrpe <https://builddocsforme.readthedocs.io/en/latest/basic/checkcommands/checknrpe>`__ -
+-  `check_nrpe <https://builddocsforme.readthedocs.io/en/latest/basic/checknrpe>`__ -
    Monitor your hosts at a deeper level. Things like CPU usage, free
    disk space, free RAM, and so-on.
 
--  `custom_check_mem <https://builddocsforme.readthedocs.io/en/latest/basic/checkcommands/customcheckmem>`__ -
+-  `custom_check_mem <https://builddocsforme.readthedocs.io/en/latest/basic/customcheckmem>`__ -
    Monitor the percentage of RAM free on either the local NEMS server or
    a remote system via NRPE.
 
--  `check_internet_speed <https://builddocsforme.readthedocs.io/en/latest/basic/checkcommands/checkinternetspeed>`__ -
+-  `check_internet_speed <https://builddocsforme.readthedocs.io/en/latest/basic/checkinternetspeed>`__ -
    Check the speed of your internet connection.
