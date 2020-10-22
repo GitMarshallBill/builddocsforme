@@ -41,11 +41,9 @@ to your backup task:
 Download Via wget Using Secure SSL (Recommended)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-..note:: 
+.. note:: Using SSL not only protects the content of your backup, but also protects your username and password from prying eyes
 
-  Using SSL not only protects the content of your backup, but also protects your username and password from prying eyes
-
-..code-block:: console
+.. code-block:: console
 
    wget -O "/backup/backup.nems" https://NEMSIP/backup/ --user=YOURUSER --password=YOURPASSWORD --no-check-certificate
 
@@ -63,7 +61,7 @@ Download Via wget Without Encryption
 
 .. warning:: This is only recommended for legacy NEMS versions that don't support SSL
 
-..code-block:: console
+.. code-block:: console
 
    wget -O "/backup/backup.nems" http://nems.local/backup/ --user=YOURUSER --password=YOURPASSWORD
 
