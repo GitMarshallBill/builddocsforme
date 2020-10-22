@@ -6,27 +6,27 @@ From a file browser window, open the Home share on the NEMS server (i.e. \\nems_
 
 .. figure:: ../../img/icons_02.PNG
   :width: 300
-  :align: right
+  :align: center
 
 Create a folder.  In this example, it is "icons"
 
 .. figure:: ../../img/icons_03.PNG
   :width: 300
-  :align: right
+  :align: center
   
 Start an SSH session to the NEMS server and login.  The "icons" folder is displayed when ls is ran.
 Copy the icon images into this new folder.
 
 .. figure:: ../../img/icons_05.PNG
   :width: 300
-  :align: right
+  :align: center
 
 "cd" into the "icons" folder and run ls to verify the icon files are there.
 Copy the icon images into this new folder.
 
 .. figure:: ../../img/icons_06.PNG
   :width: 300
-  :align: right
+  :align: center
 
 The icon file can be copied or moved into the /var/www/nconf/img/logos/base folder.
 -To copy "sudo cp *.* /var/www/nconf/img/logos/base"
@@ -34,36 +34,36 @@ The icon file can be copied or moved into the /var/www/nconf/img/logos/base fold
 
 .. figure:: ../../img/icons_07.PNG
   :width: 300
-  :align: right
+  :align: center
 
 Login the nconf for NEMS.
 In this example, the icon for "switch" will be changed.
 
 .. figure:: ../../img/icons_09.PNG
   :width: 300
-  :align: right
+  :align: center
 
 Click on Show for OS, then click on edit (pencil icon) for the OS to be modified.
 
 .. figure:: ../../img/icons_10.PNG
   :width: 300
-  :align: right
+  :align: center
 
 Edit the gif name to the new icon name and click submit.
 
 .. figure:: ../../img/icons_11.PNG
   :width: 300
-  :align: right
+  :align: center
 
 .. figure:: ../../img/icons_12.PNG
   :width: 300
-  :align: right
+  :align: center
 
 Go back to Hosts and verify the icon has changed.
 
 .. figure:: ../../img/icons_13.PNG
   :width: 300
-  :align: right
+  :align: center
 
 
 Nagios icon packs
