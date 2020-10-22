@@ -12,8 +12,8 @@ Backup Location
 ---------------
 
 Your NEMS Migrator snapshots are always accessible at
-https://NEMSIP/backup/backup.nems *or* via Samba at
-\\\nems.local\backup\backup.nems - accessing either will automatically
+\https://NEMSIP/backup/backup.nems *or* via Samba at
+\\nems.local\backup\backup.nems - accessing either will automatically
 generate and send a *backup.nems* file, which contains all the NEMS
 configuration settings, logs, data, etc. to allow an easy recovery by
 restoring to a new NEMS deployment.
@@ -41,11 +41,13 @@ to your backup task:
 Download Via wget Using Secure SSL (Recommended)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Using SSL not only protects the content of your backup, but also
-protects your username and password from prying eyes
+..note::
 
-**wget** -O "/backup/backup.nems" https://NEMSIP/backup/ --user=YOURUSER
---password=YOURPASSWORD --no-check-certificate
+  Using SSL not only protects the content of your backup, but also protects your username and password from prying eyes
+
+..code-block::
+
+  **wget** -O "/backup/backup.nems" https://NEMSIP/backup/ --user=YOURUSER --password=YOURPASSWORD --no-check-certificate
 
 I included --no-check-certificate since NEMS is using a self-signed
 certificate. This will allow the communication to be encrypted, but not
@@ -59,10 +61,13 @@ the local copy.
 Download Via wget Without Encryption
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-This is only recommended for legacy NEMS versions that don't support SSL
+.. warning::
 
-**wget** -O "/backup/backup.nems" http://nems.local/backup/
---user=YOURUSER --password=YOURPASSWORD
+   This is only recommended for legacy NEMS versions that don't support SSL
+
+..code-block
+
+  **wget** -O "/backup/backup.nems" http://nems.local/backup/ --user=YOURUSER --password=YOURPASSWORD
 
 In both of the above examples, replace */backup/backup.nems* with where
 you want nems-migrator to output the download,
