@@ -38,9 +38,7 @@ NEMS Linux documentation, work in progress.
     basic/cloudservicesapi
     basic/commandlinetest
     basic/nemsnavigationmenu
-    basic/whychoosenems
-    basic/setuptargetemailaddress
-    resolvednshostnamesonlan
+    basic/resolvednshostnamesonlan
 
 .. toctree::
     :maxdepth: 1
