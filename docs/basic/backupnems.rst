@@ -41,11 +41,9 @@ to your backup task:
 Download Via wget Using Secure SSL (Recommended)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-..note::
+..note:: Using SSL not only protects the content of your backup, but also protects your username and password from prying eyes
 
-  Using SSL not only protects the content of your backup, but also protects your username and password from prying eyes
-
-..code-block::
+..code-block:: console
 
   **wget** -O "/backup/backup.nems" https://NEMSIP/backup/ --user=YOURUSER --password=YOURPASSWORD --no-check-certificate
 
@@ -61,11 +59,9 @@ the local copy.
 Download Via wget Without Encryption
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. warning::
+.. warning:: This is only recommended for legacy NEMS versions that don't support SSL
 
-   This is only recommended for legacy NEMS versions that don't support SSL
-
-..code-block
+..code-block:: console
 
   **wget** -O "/backup/backup.nems" http://nems.local/backup/ --user=YOURUSER --password=YOURPASSWORD
 
@@ -83,5 +79,5 @@ Windows-Based Backup
 
 If you are on a Windows network and would like to include your
 backup.nems file in your nightly backup set, you may access it at
-\\\nems.local\backup\backup.nems using your NEMS username and password
+\\nems.local\backup\backup.nems using your NEMS username and password
 as set in `nems-init <https://docs.nemslinux.com/commands/nems-init>`__.
