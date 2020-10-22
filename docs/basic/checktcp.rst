@@ -24,13 +24,13 @@ config <https://docs.nemslinux.com/config/nems_nconf/generate_nagios_config>`__Â
 if you set your intervals correctly, all should be a-okay. If not,
 expand the error message to see where you went wrong.
 
+Exercise
+~~~~~~~~
+
 .. figure:: ../../img/pushover-1.4.1.png
   :width: 200
   :align: right
   :alt: Pushover Notification
-
-Exercise
-~~~~~~~~
 
 NEMS Linux includes a dummy port listener running on port 9590. The port
 listener is cleverly
