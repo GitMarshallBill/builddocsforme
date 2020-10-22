@@ -1,4 +1,4 @@
-Setup the target email address
+Setup Target Email Address
 ==============================
 
 1. Login to NEMS NConf and visit the Contacts section. You'll see your
