@@ -3,7 +3,7 @@ Check Commands
 ####################
 
 
--  `check_apc <https://builddocsforme.readthedocs.io/en/latest/basic/checkapc>`__ -
+-  `check_apc <https://builddocsforme.readthedocs.io/en/latest/basic/checkapc.html>`__ -
    Check APC UPS.
 
 -  `check_http <https://builddocsforme.readthedocs.io/en/latest/basic/checkhttp>`__ -
