@@ -20,7 +20,7 @@ Quick Use
 8. Hit submit.
 
 Then go `generate your
-config <https://docs.nemslinux.com/config/nems_nconf/generate_nagios_config>`__ and
+config <https://builddocsforme.readthedocs.io/en/latest/basic/port9590.html>`__ and
 if you set your intervals correctly, all should be a-okay. If not,
 expand the error message to see where you went wrong.
 
