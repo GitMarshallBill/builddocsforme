@@ -38,7 +38,6 @@ NEMS Linux documentation, work in progress.
     basic/cloudservicesapi
     basic/commandlinetest
     basic/nemsnavigationmenu
-    basic/nems-restore
     basic/whychoosenems
     basic/setuptargetemailaddress
     resolvednshostnamesonlan
